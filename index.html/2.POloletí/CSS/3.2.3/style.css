@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+section {
+    margin: 16px;
+    padding: 16px;
+}
+.example {
+    width: 200px;
+    height: 200px;
+    background: steelblue;
+    color: aliceblue;
+    display: grid;
+    place-items: center;
+}
+.parent {
+    background: lightsalmon;
+    width: 200px;
+    height: 200px;
+}
+.child {
+    background: lightpink;
+    width: 50%;
+    height: 50% ;
+}
+.example2 {
+    width: 200px;
+    height: 200px;
+    background: lightgray;
+    display: grid;
+    place-items: center;
+
+}
+.example3 {
+    width: 50%;
+    height: 50%;
+    background: lightskyblue;
+
+
+}
