@@ -1,0 +1,40 @@
+h2 {
+    background: lightblue;
+}
+div {
+    background-color: lightblue;
+}
+p {
+    background: lightgrey;
+}
+ul {
+    background: lightpink;
+}
+
+a, button, strong{
+    background: plum;
+}
+
+.d1 {
+    display: block;
+    border: 2px solid papayawhip;
+    background: blanchedalmond;
+    width: 50%;
+
+}
+.b1 {
+    display: inline-block;
+    background-color: aquamarine;
+    width: 180px;
+    height: 80px;
+}
+.example {
+    width: 200px;
+    height: 200px;
+    background: skyblue;
+    color: aliceblue;
+    display: grid;
+    place-items: center;
+    border: 5px solid lightpink;
+    border-radius: 15px;
+}

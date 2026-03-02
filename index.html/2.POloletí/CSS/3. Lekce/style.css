@@ -37,6 +37,12 @@ section {
     width: 50%;
     height: 50%;
     background: lightskyblue;
-
-
+}
+.example{
+    width: 200px;
+    height: 200px;
+    background: peru;
+    color: blueviolet;
+    display: grid;
+    place-items: center;
 }
