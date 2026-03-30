@@ -1,0 +1,35 @@
+div {
+    width: 300px;
+    height: 500px;
+    background-color: lightgray;
+    border-radius: 15px;
+    place-items: center;
+}
+
+h1 {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+    display: grid;
+    place-items: center;
+}
+button {
+    width: 97px;
+    height: 30px;
+    background-color: lightblue;
+    border-radius: 15px;
+    text-align: center;
+    color: blue;
+}
+h4 {
+    width: 200px;
+    height: 40px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+    display: grid;
+    place-items: center;
+}
